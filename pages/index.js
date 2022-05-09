@@ -5,7 +5,7 @@ import Link from 'next/link';
 const Index=()=>{
   
   return(
-    <div style={{backgroundColor:'#dbe9e2',height:'105vh',justifyContent:'center',alignItems:'center',textAlign:'center',fontFamily:'Roboto Mono'}}>
+    <div style={{backgroundColor:'#dbe9e2',height:'auto',justifyContent:'center',alignItems:'center',textAlign:'center',fontFamily:'Roboto Mono'}}>
      <Head>
        <title>Muhammad Masum</title>
       
@@ -28,7 +28,7 @@ const Index=()=>{
     <a href='https://github.com/masummuhammad/trello_ts' style={{color:'blue',textDecoration:'none'}}>github</a> <b>|</b> <a href='https://trello-ts.vercel.app/' style={{color:'blue',textDecoration:'none'}}>link</a>
     <p> </p>
     
-      <Link href='/getInTouch' style={{color:'blue',textDecoration:'none'}}>get in touch with me</Link> <b>|</b> <a href='https://www.facebook.com/muhammad.masum.98622' style={{color:'blue',textDecoration:'none'}}>knock me on facebook</a>
+      <a href='/getInTouch' style={{color:'blue',textDecoration:'none'}}>get in touch with me</a> <b>|</b> <a href='https://www.facebook.com/muhammad.masum.98622' style={{color:'blue',textDecoration:'none'}}>knock me on facebook</a>
     
     </div>
   )
