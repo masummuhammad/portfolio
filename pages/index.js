@@ -11,7 +11,7 @@ const Index=()=>{
        <title>Muhammad Masum</title>
       
      </Head>
-     <Image alt="muhammad masum's photo" src="portfolio_head.jpg" style={{height:'40vh',width:'auto'}}/>
+     <img alt="muhammad masum's photo" src="portfolio_head.jpg" style={{height:'40vh',width:'auto'}}/>
     <p>Hi, I am Muhammad Masum. I have started my programming journey 5 years ago by a book written by tamim shahriar subeen.It was a 
       book on c programming language. I was very passionate about to learn how web application works. I 
       started to learn html, css, javascript, nodejs , sql ,mongodb, express , RESTapi,react, socket.io etc. In 2021, I learnt
